@@ -1,0 +1,16 @@
+ 
+.env
+
+*.log
+secret/
+
+.ipynb*
+__pycache__*
+*.pyc
+
+.env
+scratch.ipynb
+data*
+
+
+*.DS_Store
